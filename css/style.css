@@ -1,5 +1,60 @@
 body{
 	font-family: 'Arial', sans-serif;
-	background: #fff;
+	background: #ededed;
 	font-size: 14px;
+}
+.wrapper{
+	max-width: 1000px;
+	min-width: 380px;
+	margin: 0 auto;
+}
+header{
+	padding-top: 	109px;
+	padding-bottom:  75px;
+background: #474747;
+
+}
+header h3{
+	padding-top: 	38px;
+	vertical-align: 	top;
+margin: 0%;
+display: inline-block;
+
+font-size: 20px;
+color: #c6c6c6;
+width: 50%;
+padding-left: 8%;
+}
+.box{
+display: 	inline-block;	
+width: 40%;
+background: #2f549B;
+color: #fff;
+height: 	160px;
+margin-top: 	-10px;
+}
+.box_img{
+	display: 	inline-block;	
+	width: 29%;	
+	text-align: 	center;	
+}
+.box img{
+	display: 	inline-block;	
+	width: 62px;	
+	height: 71px;
+	padding-bottom:	54px;
+	
+}
+.box p{
+margin: 	0%;
+padding-top: 	47px;
+display: 	inline-block;	
+width: 40%;	
+font-size: 	65px;
+}
+.box small{
+	width: 30%;	
+	display: 	inline-block;	
+color: 	#a9aebc;
+font-size: 	30px;
 }
